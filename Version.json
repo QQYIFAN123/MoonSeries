@@ -1,5 +1,6 @@
 {
-    "scriptversion": "1.05",
+    "scriptversion": "1.06",
     "gameversion": "8.13",
-    "limitCN": "1"
+    "limitCN": "1",
+	"cnserver": "8.13"
 }
